@@ -1,4 +1,4 @@
-# **Antilock Braking System in Carsim**
+# **Anti-lock Braking System in Carsim**
 
 An anti-lock braking system (ABS) is a safety anti-skid braking system used on aircraft and on land vehicles, such as cars, motorcycles, trucks, and buses. ABS prevents wheel slip from exceeding allowable limits. In this project, I built a controller for the ABS system and simulated it on Carsim.
 
