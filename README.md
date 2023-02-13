@@ -1,6 +1,6 @@
 # **Anti-lock Braking System**
 
-An anti-lock braking system (ABS) is a safety anti-skid braking system used on aircraft and on land vehicles, such as cars, motorcycles, trucks, and buses. ABS prevents wheel slip from exceeding allowable limits. In this project, I built a controller for the ABS system and simulated it on Carsim and Matblab/Simulink.
+An anti-lock braking system (ABS) is a safety anti-skid braking system used on aircraft and on land vehicles, such as cars, motorcycles, trucks, and buses. ABS prevents wheel slip from exceeding allowable limits. In this project, I built a controller for the ABS system on Matlab/simulink and simulated it on Carsim.
 
 # Table of contents!
 
